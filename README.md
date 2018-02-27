@@ -5,7 +5,7 @@ NYU Computer Science Fall 2017
 
 Authors:
 Valerie Angulo (vaa238@nyu.edu),
-Varsha Murali (vm1370@nyu.edu),
+Varsha Muralidharan (vm1370@nyu.edu),
 Carlos Petricioli (cpa253@nyu.edu)
 
 Project Description
