@@ -3,10 +3,8 @@ Data Analytics project for Realtime and Big Data Analytics
 NYU Computer Science Fall 2017
 
 Authors:
-Valerie Angulo (vaa238@nyu.edu)
-
-Varsha Murali (vm1370@nyu.edu)
-
+Valerie Angulo (vaa238@nyu.edu),
+Varsha Murali (vm1370@nyu.edu),
 Carlos Petricioli (cpa253@nyu.edu)
 
 Project Description
