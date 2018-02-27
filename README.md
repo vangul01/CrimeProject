@@ -4,7 +4,9 @@ NYU Computer Science Fall 2017
 
 Authors:
 Valerie Angulo (vaa238@nyu.edu)
+
 Varsha Murali (vm1370@nyu.edu)
+
 Carlos Petricioli (cpa253@nyu.edu)
 
 Project Description
@@ -15,6 +17,7 @@ Taxi rides data form TLC
 
 The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver- reported passenger counts. It covers years from 2009 to June 2017.
 
+
 NYPD Complaint Data Historic and Current YTD Data
 
 Historic
@@ -24,6 +27,7 @@ This dataset includes all valid felony, misdemeanor, and violation crimes report
 Current YTD
 
 This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far this year (2017).
+
 
 NOAA NYC Weather stations data (Central Park, JFK and Laguardia)
 
